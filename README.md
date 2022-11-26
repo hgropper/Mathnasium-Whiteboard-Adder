@@ -11,9 +11,9 @@ Whiteboards are constantly created, which means there must be continuing process
 
 ## Problem!
 RESTRICTION: Only one Mathnasium employee can be given access to one whiteboard at a time.
-Imppacts: This was a massive time waster! Someone would have to spend hours at a time everyday granting access to each student's whiteboard!
+Impacts: This was a massive time waster! Someone would have to spend hours at a time everyday granting access to each student's whiteboard!
 
 # Solution
-Utilizing the requests module from python I can analyze the requests from https://conexed.com/ and automate this process. 
+Utilizing the requests module from python I can analyze the HTTP requests from https://conexed.com/ and automate this process. 
 
 
