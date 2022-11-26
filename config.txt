@@ -1,0 +1,22 @@
+LOGIN CREDENTIALS
+-----------------
+email = testemail@blank.com
+password = some_password!
+-----------------
+
+PARAMETERS (SECONDS)
+-----------------
+delay = 0
+-----------------
+
+
+INSTRUCTORS / ID
+-----------------
+Mr. Bob / 100110
+Ms. Tom / 1021212
+Mr. Jerry / 10201
+Ms. Cat / 120010
+Mr. Dog / 303030
+Ms. Alex / 303030
+Mr. Steve / 304030
+------------------
