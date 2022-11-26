@@ -1,2 +1,19 @@
 # Mathnasium-Whiteboard-Adder
-During COVID where I work (Mathnasium) a math learning center became half online and half in person. I knew that the sudden transition online would contribute a lot of stress and extra work for the team. I took it upon myself to automate a very tedious task to save tons of time!
+During the beginning of the pandemic where I worked at Mathnasium, a math learning center, transitioned half online and half in person. I knew that this sudden transition would contribute a lot of stress and extra work in our workplace. So, I took it the initiative myself to automate a very tedious task to save tons of time!
+
+## The task
+Give access to all Mathnasium employees each student's whiteboard.
+
+## Why was this important?
+Everytime we wanted to work online with a student we had to load up their whiteboard (worksheet). 
+Each whiteboard contains unique data about who can access it.
+Whiteboards are constantly created, which means there must be continuing process that grants access to these whiteboards.  
+
+## Problem!
+RESTRICTION: Only one Mathnasium employee can be given access to one whiteboard at a time.
+Imppacts: This was a massive time waster! Someone would have to spend hours at a time everyday granting access to each student's whiteboard!
+
+# Solution
+Utilizing the requests module from python I can analyze the requests from https://conexed.com/ and automate this process. 
+
+
