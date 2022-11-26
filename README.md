@@ -13,7 +13,35 @@ Whiteboards are constantly created, which means there must be continuing process
 RESTRICTION: Only one Mathnasium employee can be given access to one whiteboard at a time.
 Impacts: This was a massive time waster! Someone would have to spend hours at a time everyday granting access to each student's whiteboard!
 
-# Solution
+## Solution
 Utilizing the requests module from python I can analyze the HTTP requests from https://conexed.com/ and automate this process. 
 
+# Description
+Version 1.0.0
 
+Hello fellow Mathnasium whiteboard adder,
+
+I heard that you have been using so much time... maybe too much time adding new instructors to whiteboards.
+Yeah I get it. I know it is very tedious. Only if there was a way you could get a robot to do it for you...
+
+OH WAIT! There is!
+
+What do I do?
+I will add all instructors to every whiteboard.
+
+I just ask one thing of you.
+
+--------------------------------
+Please download the latest version of python!
+
+Run the 'libraries.bat' file. This will install the 
+correct commands used for the program.
+
+Update the config file with the correct information!
+
+Run the 'run.bat' file!
+--------------------------------
+
+Then sit back relax and relax!
+
+Enjoy!
