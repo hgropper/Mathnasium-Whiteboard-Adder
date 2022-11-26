@@ -1,0 +1,97 @@
+Hello! Today's date is July-06-2021
+Initializing application...
+Checking for the config file...
+Logging in to ConexED...
+Submitting email and password...
+Login successful!
+Retrieving all existing whiteboards...
+Whiteboards successfully retrieved!
+440 whiteboards detected!
+Opening config file to view the total number of instructors...
+17 instructors detected!
+Collecting whiteboard ids...
+Collecting added instructors...
+Collecting whiteboard titles...
+Collecting dates of whiteboards...
+Collected all data!
+Successful!
+#4 Detected missing instructors...
+#4 Preparing to add instructors...
+#4 Added users(2): ['Mr. Bob', 'Mr. Cat']
+#5 Detected missing instructors...
+#5 Preparing to add instructors...
+#5 Added users(2): ['Mr. Bob', 'Mr. Cat']
+#6 Detected missing instructors...
+#6 Preparing to add instructors...
+#6 Added users(2): ['Mr. Bob', 'Mr. Cat']
+#7 Detected missing instructors...
+#7 Preparing to add instructors...
+#7 Added users(2): ['Mr. Bob', 'Mr. Cat']
+#8 Detected missing instructors...
+#8 Preparing to add instructors...
+#8 Added users(2): ['Mr. Bob', 'Mr. Cat']
+#9 Detected missing instructors...
+#9 Preparing to add instructors...
+#9 Added users(2): ['Mr. Bob', 'Mr. Cat']
+#10 All instructors already added!
+#16 All instructors already added!
+#21 All instructors already added!
+#23 All instructors already added!
+#24 All instructors already added!
+#25 All instructors already added!
+#26 All instructors already added!
+#27 All instructors already added!
+#28 All instructors already added!
+#29 All instructors already added!
+#30 All instructors already added!
+#31 All instructors already added!
+#32 All instructors already added!
+#33 All instructors already added!
+#34 All instructors already added!
+#35 All instructors already added!
+#36 All instructors already added!
+#37 All instructors already added!
+#38 All instructors already added!
+#39 All instructors already added!
+#40 All instructors already added!
+#41 All instructors already added!
+#42 All instructors already added!
+#43 All instructors already added!
+#44 All instructors already added!
+#45 All instructors already added!
+#46 All instructors already added!
+#47 All instructors already added!
+#48 All instructors already added!
+#49 All instructors already added!
+#50 All instructors already added!
+#51 All instructors already added!
+#52 All instructors already added!
+#53 All instructors already added!
+#54 All instructors already added!
+#55 All instructors already added!
+#56 All instructors already added!
+#57 All instructors already added!
+#58 All instructors already added!
+#59 All instructors already added!
+#60 All instructors already added!
+#61 All instructors already added!
+#62 All instructors already added!
+#63 All instructors already added!
+#64 All instructors already added!
+#65 All instructors already added!
+#66 All instructors already added!
+#67 All instructors already added!
+#68 All instructors already added!
+#69 All instructors already added!
+#70 All instructors already added!
+#71 All instructors already added!
+#72 All instructors already added!
+#73 All instructors already added!
+#74 All instructors already added!
+#75 All instructors already added!
+#76 Detected missing instructors...
+#76 Preparing to add instructors...
+#76 Added users(2): ['Mr. Bob', 'Mr. Cat']
+#78 Detected missing instructors...
+#78 Preparing to add instructors...
+#78 Added users(2): ['Mr. Bob', 'Mr. Cat']
