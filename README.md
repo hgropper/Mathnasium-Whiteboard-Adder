@@ -10,7 +10,7 @@ Each whiteboard contains unique data about who can access it.
 Whiteboards are constantly created, which means there must be continuing process that grants access to these whiteboards.  
 
 ## Problem!
-RESTRICTION: Only one Mathnasium employee can be given access to one whiteboard at a time.
+RESTRICTION: Only one Mathnasium employee can be given access to one whiteboard at a time (there was no 'add all' button).
 Impacts: This was a massive time waster! Someone would have to spend hours at a time everyday granting access to each student's whiteboard!
 
 ## Solution
